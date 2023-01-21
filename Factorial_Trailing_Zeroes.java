@@ -8,3 +8,5 @@ class Solution {
         return a;
     }
 }
+
+// Time Complexity of this Code is O(logn) & Space Complexity is O(1)
