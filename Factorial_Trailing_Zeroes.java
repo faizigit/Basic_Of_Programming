@@ -32,5 +32,5 @@ Example 3:
 Input: n = 0
 Output: 0
     
- Here is the link of this probelm:-
+ Here is the link of this probelm:
      https://leetcode.com/problems/factorial-trailing-zeroes/
